@@ -1,4 +1,4 @@
-# Sustainablity in digital develepment 🌍🌳🍎♻️⚡️💡💻📱💼🌐
+# Sustainablity in digital develepment 🌍🌳🍎♻️⚡️💡💼📱💻🌐
 
 This is a curated list of resources regarding sustainability and digital development, developed for a textbook with the same title. 
 
