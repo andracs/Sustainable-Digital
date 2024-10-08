@@ -18,6 +18,8 @@ This is a curated list of resources regarding sustainability and digital develop
    4. [Devs Core Insights](https://marketplace.visualstudio.com/items?itemName=DevsCore.devs-core-insights)
    5. [Code Carbon (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=CodeCarbon.codecarbon)
    6. [AWS Sustainability Scanner GitHub Action](https://github.com/marketplace/actions/aws-sustainability-scanner-github-action)
+7. Courses on green computing
+   1. ...
 
 ## List of system modelling tools
 1. Pen and paper
