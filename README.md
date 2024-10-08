@@ -8,8 +8,16 @@ This is a curated list of resources regarding sustainability and digital develop
 ## Chapter 3
 2. Mapping the Journey of Your Fairphone https://www.fairphone.com/en/impact/source-map-transparency/
 3. Fairphone Supply Chain for Fairphone 4 på Sourcemap.com https://open.sourcemap.com/maps/61a98acef1ddeb086156a529
-4. Interesting online tools for supply chain mapping fx  https://www.scmglobe.com/ eller https://open.sourcemap.com/ 
+4. Interesting online tools for supply chain mapping fx  https://www.scmglobe.com/ eller https://open.sourcemap.com/
 
+## Chapter 5
+6. Sustainable coding tools (extensions and CD/CI plugins)
+    a. [AWS Sustainability Scanner GitHub Action](https://github.com/marketplace/actions/aws-sustainability-scanner-github-action)
+    b. [Climate Warrior Official](https://github.com/marketplace/climate-warrior-official)
+    c. [Eco CI Energy Estimation](https://github.com/marketplace/actions/eco-ci-energy-estimation)
+    d. [Green Code (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=GreenCode.greencode)
+    e. [Devs Core Insights](https://marketplace.visualstudio.com/items?itemName=DevsCore.devs-core-insights)
+    f. [Code Carbon (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=CodeCarbon.codecarbon)
 
 ## List of system modelling tools
 1. Pen and paper
