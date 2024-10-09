@@ -11,7 +11,7 @@ This is a curated list of resources regarding sustainability and digital develop
 4. Interesting online tools for supply chain mapping fx  https://www.scmglobe.com/ eller https://open.sourcemap.com/
 
 ## Chapter 5
-6. Sustainable coding tools (CD/CI plugins)
+5. Sustainable coding tools (CD/CI plugins)
    1. [Climate Warrior Official](https://github.com/marketplace/climate-warrior-official)
    2. [Eco CI Energy Estimation](https://github.com/marketplace/actions/eco-ci-energy-estimation)
    3. [AWS Sustainability Scanner GitHub Action](https://github.com/marketplace/actions/aws-sustainability-scanner-github-action)
@@ -26,10 +26,12 @@ This is a curated list of resources regarding sustainability and digital develop
    1. ...
 9. Blogs and research resources 
    1. ...
-8. Open source projects
+10. Open source projects
    1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
 
 
+## Chapter 6
+1. [Nager-IT: Supply Chain of the Fair Mouse](https://www.nager-it.de/en/maus/lieferkette)
 
 
 ## List of system modelling tools
