@@ -22,6 +22,14 @@ This is a curated list of resources regarding sustainability and digital develop
 7. Courses on green computing
    1. [Green Software Foundation Learning Platform](https://learn.greensoftware.foundation/)
    2. [FreeCodeCamp: Design and Build Sustainable Software](https://www.freecodecamp.org/news/design-and-build-sustainable-software/)
+8. Forums and communities for green coding
+   1. ...
+9. Blogs and research resources 
+   1. ...
+8. Open source projects
+   1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
+
+
 
 
 ## List of system modelling tools
