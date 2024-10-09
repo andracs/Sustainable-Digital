@@ -15,17 +15,22 @@ This is a curated list of resources regarding sustainability and digital develop
    1. [Climate Warrior Official](https://github.com/marketplace/climate-warrior-official)
    2. [Eco CI Energy Estimation](https://github.com/marketplace/actions/eco-ci-energy-estimation)
    3. [AWS Sustainability Scanner GitHub Action](https://github.com/marketplace/actions/aws-sustainability-scanner-github-action)
+      
 6. Visual Studio Code extensions for sustainable code  
    1. [Green Code (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=GreenCode.greencode)
    2. [Devs Core Insights](https://marketplace.visualstudio.com/items?itemName=DevsCore.devs-core-insights)
    3. [Code Carbon (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=CodeCarbon.codecarbon)
+      
 7. Courses on green computing
    1. [Green Software Foundation Learning Platform](https://learn.greensoftware.foundation/)
    2. [FreeCodeCamp: Design and Build Sustainable Software](https://www.freecodecamp.org/news/design-and-build-sustainable-software/)
+      
 8. Forums and communities for green coding
    1. ...
+      
 9. Blogs and research resources 
    1. ...
+      
 10. Open source projects
    1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
 
