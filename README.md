@@ -39,6 +39,10 @@ This is a curated list of resources regarding sustainability and digital develop
 1. [Nager-IT: Supply Chain of the Fair Mouse](https://www.nager-it.de/en/maus/lieferkette)
 2. [Permacomputing](https://permacomputing.net/)
 3. [9 anbefalinger til din virksomheds grønne it-omstilling](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)
+4. [http://cpsr.org](http://cpsr.org)
+5. [http://www.datascienceforsocialgood.org](http://www.datascienceforsocialgood.org)
+ 
+
 
 ## Chapter 7
 1. [Humane Tech Ledger](https://ledger.humanetech.com)
