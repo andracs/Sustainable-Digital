@@ -40,7 +40,12 @@ This is a curated list of resources regarding sustainability and digital develop
 2. [Permacomputing](https://permacomputing.net/)
 3. [9 anbefalinger til din virksomheds grønne it-omstilling](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)
 
+## Chapter 7
+1. [Humane Tech Ledger](https://ledger.humanetech.com)
 
+## Chapter 8
+
+## Chapter 9
 
 ## List of system modelling tools
 1. Pen and paper
