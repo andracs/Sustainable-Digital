@@ -43,6 +43,7 @@ This is a curated list of resources regarding sustainability and digital develop
 ## Chapter 7
 1. [Humane Tech Ledger](https://ledger.humanetech.com)
 2. [Guidelines on deceptive design patterns in social media platform interfaces](https://www.edpb.europa.eu/system/files/2023-02/edpb_03-2022_guidelines_on_deceptive_design_patterns_in_social_media_platform_interfaces_v2_en_0.pdf)
+3. [ESG-profilen benchmark](https://www.lederne.dk/min-ledelse/esg-profilen/benchmark)
 
 
 ## Chapter 8
