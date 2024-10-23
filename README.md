@@ -36,13 +36,12 @@ This is a curated list of resources regarding sustainability and digital develop
 
 
 ## Chapter 6
-1. [Nager-IT: Supply Chain of the Fair Mouse](https://www.nager-it.de/en/maus/lieferkette)
-2. [Permacomputing](https://permacomputing.net/)
-3. [9 anbefalinger til din virksomheds grønne it-omstilling](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)
-4. [http://cpsr.org](http://cpsr.org)
-5. [http://www.datascienceforsocialgood.org](http://www.datascienceforsocialgood.org)
+1. [Nager-IT - Detailed look at the Fair Mouse Supply Chain](https://www.nager-it.de/en/maus/lieferkette)
+2. [Permacomputing - Principles for sustainable digital systems](https://permacomputing.net/)
+3. [9 Recommendations for Green IT Transition in Your Business (PDF in Danish)](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)
+4. [Computer Professionals for Social Responsibility - Advocating for responsible technology use](http://cpsr.org)
+5. [Data Science for Social Good - Leveraging data for social impact](http://www.datascienceforsocialgood.org)
  
-
 
 ## Chapter 7
 1. [Humane Tech Ledger](https://ledger.humanetech.com)
@@ -52,6 +51,9 @@ This is a curated list of resources regarding sustainability and digital develop
 4. [Inclusive Design by Microsoft](https://inclusive.microsoft.design/)
 5. [Google Wellbeing](https://wellbeing.google/)
 
+6. [Computer Professionals for Social Responsibility - Promoting responsible use of technology](http://cpsr.org)
+7. [Data Science for Social Good - Using data for positive social impact](http://www.datascienceforsocialgood.org)
+8. [Humane by Design - Ethical guidelines for human-centered design](https://humanebydesign.com)
 
 ## Chapter 8
 
