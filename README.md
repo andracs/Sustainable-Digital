@@ -52,6 +52,8 @@ This is a curated list of resources regarding sustainability and digital develop
 6. [Computer Professionals for Social Responsibility - Promoting responsible use of technology](http://cpsr.org)
 7. [Data Science for Social Good - Using data for positive social impact](http://www.datascienceforsocialgood.org)
 8. [Humane by Design - Ethical guidelines for human-centered design](https://humanebydesign.com)
+9. [Navigating Towards a New Digital Paradigm](https://advice-sustainabilitybarometer.com/the-digital-value-compass)
+
 
 ## Chapter 8
 
