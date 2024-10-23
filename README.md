@@ -38,19 +38,17 @@ This is a curated list of resources regarding sustainability and digital develop
 ## Chapter 6
 1. [Nager-IT - Detailed look at the Fair Mouse Supply Chain](https://www.nager-it.de/en/maus/lieferkette)
 2. [Permacomputing - Principles for sustainable digital systems](https://permacomputing.net/)
-3. [9 Recommendations for Green IT Transition in Your Business (PDF in Danish)](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)
+3. [9 Recommendations for green IT transition in your business (PDF in Danish)](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)
 4. [Computer Professionals for Social Responsibility - Advocating for responsible technology use](http://cpsr.org)
 5. [Data Science for Social Good - Leveraging data for social impact](http://www.datascienceforsocialgood.org)
  
 
 ## Chapter 7
-1. [Humane Tech Ledger](https://ledger.humanetech.com)
-2. [Guidelines on deceptive design patterns in social media platform interfaces](https://www.edpb.europa.eu/system/files/2023-02/edpb_03-2022_guidelines_on_deceptive_design_patterns_in_social_media_platform_interfaces_v2_en_0.pdf)
-3. [ESG-profilen benchmark](https://www.lederne.dk/min-ledelse/esg-profilen/benchmark)
-
-4. [Inclusive Design by Microsoft](https://inclusive.microsoft.design/)
-5. [Google Wellbeing](https://wellbeing.google/)
-
+1. [Humane Tech Ledger - Tracking ethical technology progress](https://ledger.humanetech.com)
+2. [Guidelines on Deceptive Design Patterns in Social Media Platforms (PDF)](https://www.edpb.europa.eu/system/files/2023-02/edpb_03-2022_guidelines_on_deceptive_design_patterns_in_social_media_platform_interfaces_v2_en_0.pdf)
+3. [ESG-Profile Benchmark - Leadership and sustainability insights in Danish](https://www.lederne.dk/min-ledelse/esg-profilen/benchmark)
+4. [Inclusive Design by Microsoft - Creating accessible user experiences](https://inclusive.microsoft.design/)
+5. [Google Wellbeing - Tools for digital health and mindfulness](https://wellbeing.google/)
 6. [Computer Professionals for Social Responsibility - Promoting responsible use of technology](http://cpsr.org)
 7. [Data Science for Social Good - Using data for positive social impact](http://www.datascienceforsocialgood.org)
 8. [Humane by Design - Ethical guidelines for human-centered design](https://humanebydesign.com)
