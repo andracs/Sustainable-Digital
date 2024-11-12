@@ -64,11 +64,9 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling. Listen
 2. Visuelt paradigme
 3. Lucidchart
 4. scmglobe.com
-5. ...
 
 ## Kortlægning af forsyningskæden
 1. https://www.scmglobe.com/
 2. https://open.sourcemap.com/
 
 
-Translated with DeepL.com (free version)
