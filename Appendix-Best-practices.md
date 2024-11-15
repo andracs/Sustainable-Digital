@@ -12,14 +12,14 @@ Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig
 
 # Indhold
 
-- [10 overordnede designprincipper for bæredygtige digitale løsninger](#10-overordnede-designprincipper-for-bæredygtige-digitale-løsninger)
+- [Overordnede designprincipper for bæredygtige digitale løsninger](#Overordnede-designprincipper-for-bæredygtige-digitale-løsninger)
 - [Bæredygtighedsprincipper for anvendelsen af hardware](#bæredygtighedsprincipper-for-anvendelsen-af-hardware)
 - [Bæredygtighedsprincipper for netværk og cloud](#bæredygtighedsprincipper-for-netværk-og-cloud)
 - [Bæredygtighedsprincipper for software](#bæredygtighedsprincipper-for-software)
 
 ---
 
-# 10 overordnede designprincipper for bæredygtige digitale løsninger
+# Overordnede designprincipper for bæredygtige digitale løsninger
 
 **Denne liste** kan tjene som inspiration til overordnede bæredygtighedsovervejelser ved design af digitale løsninger. Formålet med designprincipperne er at fremme udviklingen af mere bæredygtige it-løsninger og digitale systemer.
 
@@ -50,7 +50,10 @@ Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig
 9. **Less is more**  
    Små og simple løsninger bruger ofte mindre energi og færre ressourcer end store løsninger. 
 
-10. **Undgå greenwashing**  
+10. **Cybersikkerhed er også bæredygtighed**  
+    Løsninger, som kan hackes eller misbruges, er ikke bæredytige. Sørt for at have høje it-sikkerhedsstandarder. 
+
+11. **Undgå greenwashing**  
     Basér arbejdet på bredt anerkendte og videnskabeligt understøttede bæredygtighedsprincipper, der kan vejlede jer på jeres bæredygtighedsrejse.
 
 ---
