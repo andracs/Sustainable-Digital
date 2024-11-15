@@ -4,6 +4,10 @@ Nedenstående best practices er udarbejdet som et appendiks til bogen *"Bæredyg
 
 Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som nævnes i teksten nedenfor, og den vil også supplere med forklaringer og eksempler.
 
+Listerne er ikke udtømmende, men kan tjene som inspiration til din - og din organisations bæredygtighedsrejse i det, at de tager afsæt i de best practices, som vi har observeret igennem vores research og igennem vores praksis.
+
+Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig til at hjælpe os ( og fællesskabet) ved at gøre tjeklisterne endnu bedre. Det gør du ved at bidrage til den digitale og opdaterbar form for tjeklisten på [github.com/sustain-dev](https://github.com/andracs/sustain-dev), eller ved at skrive til anac@zealand.dk.
+
 ---
 
 # Indhold
@@ -84,7 +88,7 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
 # Bæredygtighedsprincipper for netværk og cloud
 
 1. **Hvilke bæredygtighedsstandarder og certificeringer har løsningen?**  
-   Vælg leverandører, der er certificeret efter gældende miljøstandarder, og som arbejder med transparente bæredygtighedsmål.
+   Vælg leverandører, som arbejder med transparente bæredygtighedsmål, og evt.også certificerede efter gældende miljøstandarder. Leverandørernes ESG-rapporter kan tjene med oplysninger herom.  
 
 2. **Er netværket baseret på energieffektiv- og miljøvenlig hardware?**  
    Arbejd med hardware, der er designet til lavt energiforbrug, og vælg produkter med minimal miljøbelastning.
@@ -96,53 +100,39 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
    Prioritér datacentre, der anvender frikøling eller andre energibesparende kølesystemer.
 
 5. **Har datacentret intelligente løsninger til at minimere miljøaftrykket?**  
-   Automatiserede systemer som optimere ressourceforbruget er til at foretrække. 
+   Er det muligt at slukke for ressourcer automatisk, når de ikke er i brug? Automatiserede systemer, som optimerer ressourceforbruget er til at foretrække. 
 
-6. **Er det muligt at slukke for ressourcer automatisk, når de ikke er i brug?**  
-   Brug software, der kan nedskalere eller deaktivere inaktive ressourcer.
+6. **Er sikkerheden i orden?**  
+   Lever netværk og cloud op til de bedst mulige sikkerhedsstandarder, og gældende lovgivning som fx GDPR eller NIS2? 
 
 ---
 
 # Bæredygtighedsprincipper for software
 
 1. **Hvilke bæredygtighedsstandarder og certificeringer har softwaren?**  
-   Overvej certificeringer for software, der dokumenterer bæredygtig praksis.
 
 2. **Overholder it-miljøet, hvor softwaren afvikles, principperne for hardware og netværk?**  
-   Sørg for, at det underliggende it-miljø følger de tidligere nævnte principper.
 
 3. **Er softwaren baseret på effektive og gennemtestede algoritmer?**  
-   Optimér kodebasen for at reducere unødvendige beregninger og datatransmissioner.
 
 4. **Har softwaren indbyggede automatiske processer, der minimerer ressourceforbruget?**  
-   Implementér energibesparende funktioner som f.eks. automatisk nedlukning af inaktive sessioner.
 
 5. **Får softwaren sikkerhedsopdateringer gennem hele løsningens levetid?**  
-   Sørg for, at softwaren holdes opdateret, så unødig udskiftning undgås.
 
 6. **Er softwaren nem at fejlfinde og veldokumenteret?**  
-   Dokumentér processer tydeligt for at minimere vedligeholdelsesomkostninger.
 
 7. **Bruger softwaren uhensigtsmæssige indstillinger og features (dark patterns)?**  
-   Undgå designmønstre, der fører til uetisk adfærd eller unødigt ressourceforbrug.
 
 8. **Kan softwaren udvides med yderligere bæredygtighedstiltag?**  
-   Design softwaren, så den kan tilpasses fremtidige behov.
 
 9. **Kan softwaren let integreres med andet software (f.eks. via API’er)?**  
-   Skab åbne grænseflader, der muliggør integration med andre systemer.
 
 10. **Understøtter softwaren monitorering af ressourceforbrug og miljøpåvirkning?**  
-    Tilbyd dashboards og rapporter, der visualiserer ressourceforbruget.
 
 11. **Er softwaren udviklet med genanvendelse og modularitet for øje?**  
-    Design moduler, der kan genbruges i fremtidige projekter.
 
 12. **Er softwaren optimeret til at reducere unødig databehandling?**  
-    Minimer redundante processer for at spare energi.
 
 13. **Håndterer softwaren data på en energieffektiv måde?**  
-    Brug teknikker som datakomprimering og caching.
 
 14. **Har softwaren funktioner, der guider brugere mod bæredygtige handlinger?**  
-    Indbyg funktioner, der fremmer grønne valg, som f.eks. energibesparende indstillinger.
