@@ -1,6 +1,6 @@
 # Bæredygtighed i digital praksis 🌍🌳🍎♻️⚡️💡💼📱💻🌐
 
-En liste over ressourcer vedrørende bæredygtighed og digital udvikling. Listen er udviklet til en lærebog med samme titel: Bæredygtighed i digital praksis (En grundbog). 
+En liste over ressourcer vedrørende bæredygtighed og digital udvikling. Listen er stadig under udvikling, og kommer til at understøtte en lærebog med samme titel: Bæredygtighed i digital praksis - en grundbog. 
 
 ## Kapitel 1
 1. Planetary boundaries (Stockholms universitet) https://www.stockholmresilience.org/research/planetary-boundaries.html
@@ -12,27 +12,25 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling. Listen
 
 ## Kapitel 5
 5. Bæredygtige kodningsværktøjer (CD/CI-plugins)
-1. [Climate Warrior Official](https://github.com/marketplace/climate-warrior-official)
-2. [Eco CI Energy Estimation](https://github.com/marketplace/actions/eco-ci-energy-estimation)
-3. [AWS Sustainability Scanner GitHub Action](https://github.com/marketplace/actions/aws-sustainability-scanner-github-action)
+  1. [Climate Warrior Official](https://github.com/marketplace/climate-warrior-official)
+  2. [Eco CI Energy Estimation](https://github.com/marketplace/actions/eco-ci-energy-estimation)
+  3. [AWS Sustainability Scanner GitHub Action](https://github.com/marketplace/actions/aws-sustainability-scanner-github-action)
 
 6. Visual Studio Code-udvidelser til bæredygtig kode 
-1. [Grøn kode (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=GreenCode.greencode)
-2. [Devs Core Insights](https://marketplace.visualstudio.com/items?itemName=DevsCore.devs-core-insights)
-3. [Code Carbon (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=CodeCarbon.codecarbon)
+  1. [Grøn kode (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=GreenCode.greencode)
+  2. [Devs Core Insights](https://marketplace.visualstudio.com/items?itemName=DevsCore.devs-core-insights)
+  3. [Code Carbon (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=CodeCarbon.codecarbon)
 
 7. Kurser om grøn computing
-1. [Green Software Foundation Learning Platform](https://learn.greensoftware.foundation/)
-2. [FreeCodeCamp: Design og byg bæredygtig software](https://www.freecodecamp.org/news/design-and-build-sustainable-software/)
+  1. [Green Software Foundation Learning Platform](https://learn.greensoftware.foundation/)
+  2. [FreeCodeCamp: Design og byg bæredygtig software](https://www.freecodecamp.org/news/design-and-build-sustainable-software/)
 
 8. Fora og fællesskaber for grøn kodning
-1. ...
 
 9. Blogs og forskningsressourcer 
-1. ...
 
 10. Open source-projekter
-1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
+  1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
 
 
 ## Kapitel 6
@@ -66,7 +64,7 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling. Listen
 4. scmglobe.com
 
 ## Kortlægning af forsyningskæden
-1. https://www.scmglobe.com/
-2. https://open.sourcemap.com/
+1. [SCM Globe - Supply Chain Design and Management](https://www.scmglobe.com/ "Explore SCM Globe for supply chain design and simulation tools.")
+2. [Sourcemap - Supply Chain Mapping Platform](https://open.sourcemap.com/ "Discover open-source supply chain mapping and analysis tools.")
 
 
