@@ -1,3 +1,5 @@
+# Best practices for bæredygtig it- og digitalisering 🌱💻📘✨♻️🌍
+
 Nedenstående best practices er udarbejdet som et appendiks til bogen *"Bæredygtighed i digital praksis - en grundbog"* af András Ács Pedersen og Jesper Balslev, som forventes at udkomme hos Samfundslitteratur i foråret 2025.
 
 Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som nævnes i teksten nedenfor, og den vil også supplere med forklaringer og eksempler.
@@ -21,7 +23,7 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
    Produktionen og driften af digitale produkter bør udover at være miljø- og klimavenlige også have positive samfundsmæssige effekter og positiv indvirkning på de individuelle brugere. (Se også: [Karlskrona-manifestet](https://arxiv.org/abs/1410.6968).)
    
 2. **Design cirkulære processer**  
-   "Brug og smid væk"-kulturen er sjældent bæredygtig; cirkulær økonomi er en bedre tilgang. Produkter bør have en livscyklus fra vugge til vugge med mål om tæt på 0 % affald.
+   "Brug og smid væk"-kulturen er sjældent bæredygtig; cirkulær økonomi er en bedre tilgang. Produkter bør have en livscyklus fra vugge til vugge med mål om tæt på 0% affald.
 
 3. **Vedvarende energi er bedst**  
    Baser de digitale løsninger på vedvarende energi i videst muligt omfang. Udforsk mulighederne for, at leverandører og aftagere også anvender vedvarende energi.
@@ -30,7 +32,7 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
    Bæredygtighed inden for it er endnu et ubeskrevet blad, og derfor er iterativ udvikling med langsigtede mål og korte iterationer ofte bedre end meget detaljerede, langsigtede planer.
 
 5. **Tag ansvar for produkters fulde livscyklus**  
-   Virksomheder bør tage ansvar for, hvordan deres produkter bruges, hvordan de bortskaffes, og hvordan de påvirker brugere, miljø og samfund.
+   Virksomheder bør tage ansvar for, hvordan deres produkter anvendes, hvordan de bortskaffes, og hvordan de påvirker brugere, miljø og samfund. 
 
 6. **Følg anerkendte standarder og certificeringer**  
    Der findes en del bæredygtighedsstandarder for software, hardware og netværk, og der er endnu flere under udvikling. Overvej også at opnå certificeringer, der kan støtte organisationens mål.
@@ -42,7 +44,7 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
    Vælg løsninger med lavere direkte og indirekte energiforbrug for at minimere løsningens miljøaftryk.
 
 9. **Less is more**  
-   Små og simple løsninger bruger ofte mindre energi og færre ressourcer end store løsninger.
+   Små og simple løsninger bruger ofte mindre energi og færre ressourcer end store løsninger. 
 
 10. **Undgå greenwashing**  
     Basér arbejdet på bredt anerkendte og videnskabeligt understøttede bæredygtighedsprincipper, der kan vejlede jer på jeres bæredygtighedsrejse.
@@ -52,9 +54,9 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
 # Bæredygtighedsprincipper for anvendelsen af hardware
 
 1. **Hvilke bæredygtighedsstandarder lever hardwaren op til, og hvilke certificeringer har den?**  
-   Vælg hardware, der er certificeret efter standarder som EPEAT eller TCO Certified, for at sikre en ansvarlig produktion.
+   Vælg hardware, der er certificeret efter standarder som sikrer en ansvarlig produktion.
 
-2. **Er hardwaren produceret efter bedste praksis for bæredygtighed?**  
+2. **Er hardwaren produceret efterbest practices for bæredygtighed?**  
    - Brug bæredygtige råmaterialer og genbrugte komponenter.  
    - Sørg for, at affaldssorteringen ved endt livscyklus er ansvarlig.  
    - Arbejd med leverandører, der prioriterer gode arbejdsforhold og vedvarende energi.
@@ -74,7 +76,7 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
 7. **Fremtidsaspekter af hardwaren**  
    Undersøg, om hardwaren kan opgraderes eller genbruges til fremtidige behov.
 
-8. **Hvordan ser leverandøren udviklingen for hardware de kommende år?**  
+8. **Hvordan ser leverandøren på udviklingen for hardware de kommende år?**  
    Prioritér leverandører, der arbejder med innovative løsninger til at reducere miljøbelastningen.
 
 ---
@@ -82,9 +84,9 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
 # Bæredygtighedsprincipper for netværk og cloud
 
 1. **Hvilke bæredygtighedsstandarder og certificeringer har løsningen?**  
-   Vælg leverandører, der er certificeret efter ISO 14001 eller tilsvarende miljøstandarder, og som arbejder med transparente bæredygtighedsmål.
+   Vælg leverandører, der er certificeret efter gældende miljøstandarder, og som arbejder med transparente bæredygtighedsmål.
 
-2. **Er netværket baseret på energieffektiv og miljøvenlig hardware?**  
+2. **Er netværket baseret på energieffektiv- og miljøvenlig hardware?**  
    Arbejd med hardware, der er designet til lavt energiforbrug, og vælg produkter med minimal miljøbelastning.
 
 3. **Er driften baseret på vedvarende energi?**  
@@ -94,7 +96,7 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
    Prioritér datacentre, der anvender frikøling eller andre energibesparende kølesystemer.
 
 5. **Har datacentret intelligente løsninger til at minimere miljøaftrykket?**  
-   Implementér AI og automatiserede systemer til at optimere ressourceforbruget.
+   Automatiserede systemer som optimere ressourceforbruget er til at foretrække. 
 
 6. **Er det muligt at slukke for ressourcer automatisk, når de ikke er i brug?**  
    Brug software, der kan nedskalere eller deaktivere inaktive ressourcer.
@@ -104,7 +106,7 @@ Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som næ
 # Bæredygtighedsprincipper for software
 
 1. **Hvilke bæredygtighedsstandarder og certificeringer har softwaren?**  
-   Overvej certificeringer som Blue Angel eller ECO Label for software, der dokumenterer bæredygtig praksis.
+   Overvej certificeringer for software, der dokumenterer bæredygtig praksis.
 
 2. **Overholder it-miljøet, hvor softwaren afvikles, principperne for hardware og netværk?**  
    Sørg for, at det underliggende it-miljø følger de tidligere nævnte principper.
