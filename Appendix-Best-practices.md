@@ -1,12 +1,12 @@
 # Best practices for bæredygtig it- og digitalisering 🌱💻📘✨♻️🌍
 
-Nedenstående best practices er udarbejdet som et appendiks til bogen *"Bæredygtighed i digital praksis - en grundbog"* af András Ács Pedersen og Jesper Balslev, som forventes at udkomme hos Samfundslitteratur i foråret 2025.
+Disse best practices er udarbejdet som appendiks til bogen *"Bæredygtighed i digital praksis - en grundbog"* af András Ács Pedersen og Jesper Balslev. 
 
-Bogen vil uddybe de bæredygtighedsaspekter af it-udvikling og it-drift, som nævnes i teksten nedenfor, og den vil også supplere med forklaringer og eksempler.
+Bogen uddyber de bæredygtighedsaspekter af it-udvikling og it-drift, som nævnes i listerne. Den vil også supplere med forklaringer og eksempler, når den udkommer i foråret 2025. 
 
 Listerne er ikke udtømmende, men kan tjene som inspiration til din - og din organisations bæredygtighedsrejse i det, at de tager afsæt i de best practices, som vi har observeret igennem vores research og igennem vores praksis.
 
-Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig til at hjælpe os ( og fællesskabet) ved at gøre tjeklisterne endnu bedre. Det gør du ved at bidrage til den digitale og opdaterbar form for tjeklisten på [github.com/sustain-dev](https://github.com/andracs/sustain-dev), eller ved at skrive til anac@zealand.dk.
+Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig til at hjælpe os (og fællesskabet) ved at gøre tjeklisterne endnu bedre. Det gør du ved at bidrage til den digitale og opdaterbare form for tjeklisten på [github.com/sustain-dev](https://github.com/andracs/sustain-dev), eller ved at skrive til anac@zealand.dk.
 
 ---
 
