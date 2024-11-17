@@ -112,7 +112,8 @@ Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig
 
 # Bæredygtighedsprincipper for software
 
-1. **Hvilke bæredygtighedsstandarder og certificeringer har softwaren?**  
+1. **Hvilke bæredygtighedsstandarder og certificeringer kan softwaren leve op til?**  
+   Standarderne kan omhandle både miljø og samfund, men også sikkerhed, som fx ASVS-standarden for sikre applikationer.  
 
 2. **Overholder it-miljøet, hvor softwaren afvikles, principperne for hardware og netværk?**  
 
