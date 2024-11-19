@@ -114,13 +114,34 @@ Brug nedenstående spørgsmål til at kunne stille de rette krav til leverandør
 ---
 
 # 💾♻️ Bæredygtighedsprincipper for software
+Tjeklisten guider dig i at udvikle eller indkøbe softwareløsninger med fokus på bæredygtighed i en bred forstand.  
 
+1. **Tænk langsigtet**
+Indbyg bæredygtighed i softwaren fra start, frem for at have det med som en add-on eller en eftertanke. Design med datakilder, som fremmer bæredygtighed.
 
-1. Tænk langsigtet,
-indbyg bæredygtighed fra start, Design med data
-2. Følg manifestet, standarder		
-3. Undgå ubæredygtige praksisser, som: Dark patterns, teknisk gæld		
-4. Automatisér bæredygtighedsanalyser og sikkerhed		
-5. Nudg brugere mod bæredygtighed		
-6. Reducer unødig databehandling		Håndtér data energieffektivt
-7. Uddan udviklere og i bæredygtighed		
+2. **Følg de veletablerede bæredygtighed best practices**		
+Vi skal ikke opfinde den dybe tallerken igen, men vi kan følge etablerede standarder og praksisser, der fremmer bæredygtighed, såsom [Karlskrona Manifestet for bæredygtigt design](https://sustainabilitydesign.org/), [W3C's Web Sustainability Guidelines](https://w3c.github.io/sustyweb/), [Blauer Engel-certificeringen for software](https://www.blauer-engel.de/en/products/software), [Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/) og [B Corp Certification](https://www.bcorporation.net/).
+
+3. **Undgå ubæredygtige praksisser**
+Softwaren skal være fremmende for både individet og organisationerne. Undgå "dark patterns", som kan være skadelige for softwarens brugere. Undgå også ved at stifte *teknisk gæld* ved at anvende teknologi, som ikke er langtidsholdbar. Anvend i stedet for komponenter, som er åbne for udvikling og fremtidssikrede.
+ 
+4. **Automatisér bæredygtighedsanalyser**
+Sørg for, at automatiske målinger benchmarker softwarens effektivitet løbende, for såvel miljø som sikkerhed.  
+     
+5. **Guide brugere mod bæredygtighed**
+Hjælp brugerne med at træffe mere bæredygtige valg, som gavner både dem selv, men også fremtiden. Hav bæredygtige standardindstillinger, og bruge nudging til at ændre brugernes adfærd i mere bæredygitge retninger. Sørg for, at brugerne er glade - også i det lange løb.  
+
+6. **Håndtér data energieffektivt**
+Indbyg faciliteter i softwaren, som kan fremme energieffektiv datahåndtering. Være sparsom og nøjsom i forhold til de computational resources, der kræves 
+
+8. Uddan udviklere og i bæredygtighed
+9. Følg de gode, gamle dyder fra softwareudviklingens mangeårige historie
+10. 6. ** Reducer unødig databehandling **
+
+Monitorér ressourceforbrug og miljøpåvirkning
+Brug effektive og gennemtestede algoritmer
+Design til modularitet og genanvendelse
+Sørg for integrationsevne
+Sikre løbende opdateringer
+Gør softwaren nem at fejlfinde og veldokumenteret
+Optimer til ældre hardware 
