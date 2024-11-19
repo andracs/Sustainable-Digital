@@ -48,8 +48,6 @@ Denne liste kan tjene som inspiration til overordnede bæredygtighedsovervejelse
 # Supplerende tjeklister
 
 Brug følgende tjeklister for mere bæredygitge praksisser ift. hardware, netværk/cloud og software. 
-
-- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
   
 - [🔌 Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
   
