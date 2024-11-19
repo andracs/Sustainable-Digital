@@ -1,14 +1,15 @@
 # Bæredygtighed i digital praksis 🌍🌳🍎♻️⚡️💡💼📱💻🌐
 
-En liste over ressourcer vedrørende bæredygtighed og digital udvikling. Listen er stadig under udvikling, og kommer til at understøtte en lærebog med samme titel: Bæredygtighed i digital praksis - en grundbog. 
+En liste over ressourcer vedrørende bæredygtighed og digital udvikling, som understøtter lærebogen med samme titel:  "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev (Samfundslitteratur, 2025).   
 
 ## Kapitel 1
-1. Planetary boundaries (Stockholms universitet) https://www.stockholmresilience.org/research/planetary-boundaries.html
+1. [Planetary boundaries (Stockholms universitet)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 
 ## Kapitel 3
-2. Kortlægning af din Fairphones rejse https://www.fairphone.com/en/impact/source-map-transparency/
-3. Fairphone Supply Chain for Fairphone 4 på Sourcemap.com https://open.sourcemap.com/maps/61a98acef1ddeb086156a529
-4. Interessante onlineværktøjer til kortlægning af forsyningskæden fx https://www.scmglobe.com/ eller https://open.sourcemap.com/
+2. [Kortlægning af din Fairphones rejse](https://www.fairphone.com/en/impact/source-map-transparency/)  
+3. [Fairphone Supply Chain for Fairphone 4 på Sourcemap.com](https://open.sourcemap.com/maps/61a98acef1ddeb086156a529)  
+4. [Interessante onlineværktøjer til kortlægning af forsyningskæden - SCM Globe](https://www.scmglobe.com/)  
+   [Interessante onlineværktøjer til kortlægning af forsyningskæden - Sourcemap](https://open.sourcemap.com/)  
 
 ## Kapitel 5
 5. Bæredygtige kodningsværktøjer (CD/CI-plugins)
@@ -21,15 +22,25 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling. Listen
    2. [Devs Core Insights](https://marketplace.visualstudio.com/items?itemName=DevsCore.devs-core-insights)
    3. [Code Carbon (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=CodeCarbon.codecarbon)
 
-7. Kurser om grøn computing
-   1. [Green Software Foundation Learning Platform](https://learn.greensoftware.foundation/)
-   2. [FreeCodeCamp: Design og byg bæredygtig software](https://www.freecodecamp.org/news/design-and-build-sustainable-software/)
+7. **Kurser om grøn computing**  
+   1. [Green Software Foundation Learning Platform](https://learn.greensoftware.foundation/)  
+   2. [FreeCodeCamp: Design og byg bæredygtig software](https://www.freecodecamp.org/news/design-and-build-sustainable-software/)  
+   3. [Coursera: Sustainable Digital Innovation](https://www.coursera.org/learn/sustainable-digital-innovation)  
+   4. [Pluralsight: Energy Efficient Programming](https://www.pluralsight.com/)  
 
-8. Fora og fællesskaber for grøn kodning
+8. **Fora og fællesskaber for grøn kodning**  
+   1. [Green Software Foundation Community](https://greensoftware.foundation/community)  
+   2. [SustainableUX](https://sustainableux.com/)  
+   3. [ClimateAction.tech](https://climateaction.tech/)  
+   4. [Sustainable Developers Group på Reddit](https://www.reddit.com/r/Sustainability/)  
 
-9. Blogs og forskningsressourcer 
+9. **Blogs og forskningsressourcer**  
+   1. [The Green Programmer](https://www.thegreenprogrammer.com/)  
+   2. [Sustainable Web Manifesto Blog](https://sustainablewebmanifesto.com/blog/)  
+   3. [ACM SIGSUSTAIN - Special Interest Group on Sustainability](https://sigsustain.acm.org/)  
+   4. [Low Tech Magazine](https://www.lowtechmagazine.com/)  
 
-10. Open source-projekter
+10. **Open source-projekter**
    1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
 
 
@@ -52,10 +63,7 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling. Listen
 8. [Humane by Design - Etiske retningslinjer for menneskecentreret design](https://humanebydesign.com)
 9. [At navigere mod et nyt digitalt paradigme](https://advice-sustainabilitybarometer.com/the-digital-value-compass)
 
-
-## Kapitel 8
-
-## Kapitel 9
+---
 
 ## Liste over værktøjer til systemmodellering
 1. Pen og papir
