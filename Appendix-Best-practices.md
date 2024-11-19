@@ -51,7 +51,7 @@ Brug følgende tjeklister for mere bæredygitge praksisser ift. hardware, netvæ
 
 - [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
   
-- [✅ Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
+- [🔌 Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
   
 - [🌍 Netværks-checkliste](./Appendix-Best-practices-Network.md)
   
