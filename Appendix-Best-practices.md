@@ -138,15 +138,15 @@ Indbyg faciliteter i softwaren, som kan fremme energieffektiv datahåndtering. V
 Alle medarbejdere have en grundforståelse for bæredygtighedens betydning generelt, og de forskellige jobroller kan få gavn af mere specifikke uddannelsestilbud eller online læring. 
 
 8. **Følg de gode, gamle dyder fra softwareudviklingens mangeårige historie**
-Informationsteknologiens historie er en laaaaaaang kæde af optimerings- og forbedringsprocesser, som kan bidrage til
+Informationsteknologiens historie er en laaaaaaang kæde af optimerings- og forbedringsprocesser, som kan bidrage til mere bæredygtige softwarepraksisser. 
  
-10. 6. ** Reducer unødig databehandling **
+   1. **Reducer unødig databehandling**, fordi sparsomme løsninger kræver mindre energi, og der skal produceres mindre elektronik.
+   2. **Monitorér ressourceforbrug og miljøpåvirkning**, for at kunne træffe kvalificerede beslutninger om forbedringer.
+   3. **Brug effektive og gennemtestede algoritmer**, fordi ellers stifter du teknisk gæld for fremtiden.
+   4. **Design til modularitet og genanvendelse** 
+   5. **Sørg for at softwaren er åben** for at gøre det muligt at sammenkøre forskellige løsninger og skabe nye eller mere effektive produkter.'
+   6. **Hav en plan for løbende opdateringer**, både forid det er essintelt for sikkerheden i softwaren, men også fordi det kan skabe en bedre forretning.
+   7. **Gør softwaren nem at fejlfinde og veldokumenteret**, det kan betale sig i længden. 
+   8. **Overvej at optimere til ældre hardware**, fordi i nogle tilfælde kan bagudkompaitbilitet kan betale sig.
+  
 
-
-Monitorér ressourceforbrug og miljøpåvirkning
-Brug effektive og gennemtestede algoritmer
-Design til modularitet og genanvendelse
-Sørg for integrationsevne
-Sikre løbende opdateringer
-Gør softwaren nem at fejlfinde og veldokumenteret
-Optimer til ældre hardware 
