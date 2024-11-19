@@ -25,7 +25,6 @@ Brug følgende tjeklister for mere bæredygitge praksisser.
 
 - [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
   
-- [✅ Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
-
+- [🔌 Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
   
 - [💾 Software-checkliste](./Appendix-Best-practices-Software.md)
