@@ -8,20 +8,9 @@ Tjeklisterne kan tilpasses og udvides med flere tiltag. Du kan hjælpe med at fo
 
 Bogen udkommer hos Samfundslitteratur i foråret 2025 og uddyber bæredygtige aspekter af it-udvikling og it-drift med forklaringer og eksempler.
 
----
-
-# Indhold
-
-- [Overordnede designprincipper for bæredygtige digitale løsninger](#Overordnede-designprincipper-for-bæredygtige-digitale-løsninger)
-   - [Tjekliste for hardware](#bæredygtighedsprincipper-for-anvendelsen-af-hardware)
-   - [Tjekliste for netværk og cloud](#bæredygtighedsprincipper-for-netværk-og-cloud)
-   - [Bæredygtighedsprincipper for software](#bæredygtighedsprincipper-for-software)
-
----
-
 # Overordnede designprincipper for bæredygtige digitale løsninger
 
-**Denne liste** kan tjene som inspiration til overordnede bæredygtighedsovervejelser ved design af digitale løsninger. Herefter følger der bæredygtighedstjeklister for både hardware-, netværk- og software-løsninger. 
+Denne liste kan tjene som inspiration til overordnede bæredygtighedsovervejelser ved design af digitale løsninger. Herefter følger der bæredygtighedstjeklister for både hardware-, netværk- og software-løsninger. 
 
 1. **Bæredygtighed omfatter både miljø, teknologi, økonomi, individ og samfund**  
    Produktionen og driften af digitale produkter bør udover at være miljø- og klimavenlige også have positive samfundsmæssige effekter og positiv indvirkning på de individuelle brugere. (Se også: [Karlskrona-manifestet](https://arxiv.org/abs/1410.6968).)
@@ -56,5 +45,16 @@ Bogen udkommer hos Samfundslitteratur i foråret 2025 og uddyber bæredygtige as
 11. **Undgå greenwashing**  
     Basér arbejdet på bredt anerkendte og videnskabeligt understøttede bæredygtighedsprincipper, der kan vejlede jer på jeres bæredygtighedsrejse.
 
+# Supplerende tjeklister
+
+Brug følgende tjeklister for mere bæredygitge praksisser ift. hardware, netværk/cloud og software. 
+
+- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
   
+- [✅ Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
+  
+- [🌍 Netværks-checkliste](./Appendix-Best-practices-Network.md)
+  
+- [💾 Software-checkliste](./Appendix-Best-practices-Software.md)
+
 
