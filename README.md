@@ -63,6 +63,16 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling, som un
 8. [Humane by Design - Etiske retningslinjer for menneskecentreret design](https://humanebydesign.com)
 9. [At navigere mod et nyt digitalt paradigme](https://advice-sustainabilitybarometer.com/the-digital-value-compass)
 
+## Appendix - Best practices for bæredygtig digital praksis
+
+- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
+
+- [🔌 Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
+  
+- [🌍 Netværks-checkliste](./Appendix-Best-practices-Network.md)
+  
+- [💾 Software-checkliste](./Appendix-Best-practices-Software.md)
+  
 ---
 
 ## Liste over værktøjer til systemmodellering
