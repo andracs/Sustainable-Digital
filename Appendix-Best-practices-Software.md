@@ -1,5 +1,7 @@
 # 💾♻️ Bæredygtighedsprincipper for software
 
+Disse best practices er appendiks til bogen "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev (2025, Samfundslitteratur).
+
 Denne tjekliste guider dig i at udvikle eller indkøbe softwareløsninger med fokus på bæredygtighed i en bred forstand. 
 
 ## 🌱 **1. Tænk langsigtet**
@@ -65,13 +67,12 @@ Anvend følgende tjeklister for mere bæredygitge praksisser og en lysere fremti
   
 - [🌍 Netværks-checkliste](./Appendix-Best-practices-Network.md)
 
-Disse best practices er et appendiks til bogen "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev.
+# Bæredygtighed i digital praksis - en grundbog
 
 Listen er ikke udtømmende, men kan bruges som inspiration til dig og din organisation på jeres bæredygtighedsrejse. Den bygger på observationer fra research og praksis.
 
 Tjeklisterne kan tilpasses og udvides med flere tiltag. Du kan hjælpe med at forbedre dem ved at bidrage til den opdaterbare version på [github.com/sustain-dev](https://github.com/andracs/Sustainable-Digital/) eller skrive til anac@zealand.dk.
 
-Bogen udkommer hos Samfundslitteratur i foråret 2025.
 
 
 
