@@ -17,4 +17,15 @@ Brug nedenstående spørgsmål til at kunne stille de rette krav til leverandør
    Er det muligt at slukke for ressourcer automatisk, når de ikke er i brug? Automatiserede systemer, som optimerer ressourceforbruget er til at foretrække. 
 
 6. **Er sikkerheden i orden?**  
-   Lever netværk og cloud op til de bedst mulige sikkerhedsstandarder, og gældende lovgivning som fx GDPR eller NIS2? 
+   Lever netværk og cloud op til de bedst mulige sikkerhedsstandarder, og gældende lovgivning som fx GDPR eller NIS2?
+
+# Supplerende tjeklister
+
+Brug følgende tjeklister for mere bæredygitge praksisser.
+
+- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
+  
+- [✅ Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
+
+  
+- [💾 Software-checkliste](./Appendix-Best-practices-Software.md)
