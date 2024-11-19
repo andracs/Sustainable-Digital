@@ -20,8 +20,6 @@ Er det muligt at slukke for ressourcer automatisk, når de ikke er i brug? Autom
 ## 🔐 6. Er sikkerheden i orden?  
 Lever netværk og cloud op til de bedst mulige sikkerhedsstandarder og gældende lovgivning som fx GDPR eller NIS2?  
 
----
-
 # 📝 Supplerende tjeklister  
 
 Brug følgende tjeklister for mere bæredygtige praksisser.  
