@@ -27,3 +27,13 @@ Denne tjekliste hjælper dig med at vurdere hardware-løsninger med fokus på b�
 
 8. **Hvordan ser leverandøren på udviklingen for hardware de kommende år?**  
    Prioritér leverandører, der arbejder med innovative løsninger til at reducere miljøbelastningen.
+
+# Supplerende tjeklister
+
+Brug følgende tjeklister for mere bæredygitge praksisser. 
+
+- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
+    
+- [🌍 Netværks-checkliste](./Appendix-Best-practices-Network.md)
+  
+- [💾 Software-checkliste](./Appendix-Best-practices-Software.md)
