@@ -8,8 +8,9 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling, som un
 ## Kapitel 3
 2. [Kortlægning af din Fairphones rejse](https://www.fairphone.com/en/impact/source-map-transparency/)  
 3. [Fairphone Supply Chain for Fairphone 4 på Sourcemap.com](https://open.sourcemap.com/maps/61a98acef1ddeb086156a529)  
-4. [Interessante onlineværktøjer til kortlægning af forsyningskæden - SCM Globe](https://www.scmglobe.com/)  
-   [Interessante onlineværktøjer til kortlægning af forsyningskæden - Sourcemap](https://open.sourcemap.com/)  
+4. Interessante onlineværktøjer til kortlægning af forsyningskæden
+   1. [SCM Globe](https://www.scmglobe.com/)
+   2. [Sourcemap](https://open.sourcemap.com/)  
 
 ## Kapitel 5
 5. Bæredygtige kodningsværktøjer (CD/CI-plugins)
