@@ -132,11 +132,16 @@ Sørg for, at automatiske målinger benchmarker softwarens effektivitet løbende
 Hjælp brugerne med at træffe mere bæredygtige valg, som gavner både dem selv, men også fremtiden. Hav bæredygtige standardindstillinger, og bruge nudging til at ændre brugernes adfærd i mere bæredygitge retninger. Sørg for, at brugerne er glade - også i det lange løb.  
 
 6. **Håndtér data energieffektivt**
-Indbyg faciliteter i softwaren, som kan fremme energieffektiv datahåndtering. Være sparsom og nøjsom i forhold til de computational resources, der kræves 
+Indbyg faciliteter i softwaren, som kan fremme energieffektiv datahåndtering. Være sparsom og nøjsom i forhold til de computational resources, der kræves.
 
-8. Uddan udviklere og i bæredygtighed
-9. Følg de gode, gamle dyder fra softwareudviklingens mangeårige historie
+7. **Uddan udviklere løbende i bæredygtige praksisser**
+Alle medarbejdere have en grundforståelse for bæredygtighedens betydning generelt, og de forskellige jobroller kan få gavn af mere specifikke uddannelsestilbud eller online læring. 
+
+8. **Følg de gode, gamle dyder fra softwareudviklingens mangeårige historie**
+Informationsteknologiens historie er en laaaaaaang kæde af optimerings- og forbedringsprocesser, som kan bidrage til
+ 
 10. 6. ** Reducer unødig databehandling **
+
 
 Monitorér ressourceforbrug og miljøpåvirkning
 Brug effektive og gennemtestede algoritmer
