@@ -1,27 +1,27 @@
 # Best practices for bæredygtig it- og digitalisering 🌱💻📘✨♻️🌍
 
-Disse best practices er udarbejdet som appendiks til bogen *"Bæredygtighed i digital praksis - en grundbog"* af András Ács Pedersen og Jesper Balslev. 
+Disse best practices er et appendiks til bogen "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev.
 
-Bogen uddyber de bæredygtighedsaspekter af it-udvikling og it-drift, som nævnes i listerne. Den vil også supplere med forklaringer og eksempler, når den udkommer i foråret 2025. 
+Listerne er ikke udtømmende, men kan bruges som inspiration til dig og din organisation på jeres bæredygtighedsrejse. De bygger på observationer fra research og praksis.
 
-Listerne er ikke udtømmende, men kan tjene som inspiration til din - og din organisations bæredygtighedsrejse i det, at de tager afsæt i de best practices, som vi har observeret igennem vores research og igennem vores praksis.
+Tjeklisterne kan tilpasses og udvides med flere tiltag. Du kan hjælpe med at forbedre dem ved at bidrage til den opdaterbare version på github.com/sustain-dev eller skrive til anac@zealand.dk.
 
-Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig til at hjælpe os (og fællesskabet) ved at gøre tjeklisterne endnu bedre. Det gør du ved at bidrage til den digitale og opdaterbare form for tjeklisten på [github.com/sustain-dev](https://github.com/andracs/sustain-dev), eller ved at skrive til anac@zealand.dk.
+Bogen udkommer hos Samfundslitteratur i foråret 2025 og uddyber bæredygtige aspekter af it-udvikling og it-drift med forklaringer og eksempler.
 
 ---
 
 # Indhold
 
 - [Overordnede designprincipper for bæredygtige digitale løsninger](#Overordnede-designprincipper-for-bæredygtige-digitale-løsninger)
-- [Bæredygtighedsprincipper for anvendelsen af hardware](#bæredygtighedsprincipper-for-anvendelsen-af-hardware)
-- [Bæredygtighedsprincipper for netværk og cloud](#bæredygtighedsprincipper-for-netværk-og-cloud)
-- [Bæredygtighedsprincipper for software](#bæredygtighedsprincipper-for-software)
+   - [Tjekliste for hardware](#bæredygtighedsprincipper-for-anvendelsen-af-hardware)
+   - [Tjekliste for netværk og cloud](#bæredygtighedsprincipper-for-netværk-og-cloud)
+   - [Bæredygtighedsprincipper for software](#bæredygtighedsprincipper-for-software)
 
 ---
 
 # Overordnede designprincipper for bæredygtige digitale løsninger
 
-**Denne liste** kan tjene som inspiration til overordnede bæredygtighedsovervejelser ved design af digitale løsninger. Formålet med designprincipperne er at fremme udviklingen af mere bæredygtige it-løsninger og digitale systemer.
+**Denne liste** kan tjene som inspiration til overordnede bæredygtighedsovervejelser ved design af digitale løsninger. Herefter følger der bæredygtighedstjeklister for både hardware-, netværk- og software-løsninger. 
 
 1. **Bæredygtighed omfatter både miljø, teknologi, økonomi, individ og samfund**  
    Produktionen og driften af digitale produkter bør udover at være miljø- og klimavenlige også have positive samfundsmæssige effekter og positiv indvirkning på de individuelle brugere. (Se også: [Karlskrona-manifestet](https://arxiv.org/abs/1410.6968).)
@@ -35,11 +35,11 @@ Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig
 4. **Brug agile udviklingsmetoder**  
    Bæredygtighed inden for it er endnu et ubeskrevet blad, og derfor er iterativ udvikling med langsigtede mål og korte iterationer ofte bedre end meget detaljerede, langsigtede planer.
 
-5. **Tag ansvar for produkters fulde livscyklus**  
-   Virksomheder bør tage ansvar for, hvordan deres produkter anvendes, hvordan de bortskaffes, og hvordan de påvirker brugere, miljø og samfund. 
+5. **Tag ansvar for produkterness fulde livscyklus**  
+   Virksomheder bør tage ansvar for, hvordan deres produkter anvendes, hvordan de bortskaffes, og hvordan de påvirker brugere, miljø og samfund. Det gælder både fysiske -og også digitale produkter. 
 
 6. **Følg anerkendte standarder og certificeringer**  
-   Der findes en del bæredygtighedsstandarder for software, hardware og netværk, og der er endnu flere under udvikling. Overvej også at opnå certificeringer, der kan støtte organisationens mål.
+   Der findes en del bæredygtighedsstandarder for software, hardware og netværk, og der er endnu flere under udvikling. Overvej at opnå certificeringer, der kan støtte organisationens mål. Dette kan fremme jeres markedsposition på markeder, hvor bæredygighed efterspørges. 
 
 7. **Guide brugere mod bæredygtige valg**  
    Softwaren bør designes således, at den inspirerer og hjælper brugerne til at træffe mere bæredygtige valg.
@@ -58,7 +58,9 @@ Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig
 
 ---
 
-# Bæredygtighedsprincipper for anvendelsen af hardware
+# 🌱💻 Bæredygtighedsprincipper for anvendelsen af hardware
+
+Denne tjekliste hjælper dig med at vurdere hardware-løsninger med fokus på bæredygtighed. Brug den som et praktisk redskab til at stille de rigtige spørgsmål og træffe informerede valg, der gavner både miljøet, samfundet og også din organisation.
 
 1. **Hvilke bæredygtighedsstandarder lever hardwaren op til, og hvilke certificeringer har den?**  
    Vælg hardware, der er certificeret efter standarder som sikrer en ansvarlig produktion.
@@ -88,7 +90,8 @@ Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig
 
 ---
 
-# Bæredygtighedsprincipper for netværk og cloud
+# 🔌🌍 Bæredygtighedsprincipper for netværk og cloud
+Brug nedenstående spørgsmål til at kunne stille de rette krav til leverandører og løsninger – fra energieffektiv hardware til brug af vedvarende energi og intelligente systemer. Målet er at sikre miljøvenlig drift uden at gå på kompromis med sikkerhed og kvalitet.
 
 1. **Hvilke bæredygtighedsstandarder og certificeringer har løsningen?**  
    Vælg leverandører, som arbejder med transparente bæredygtighedsmål, og evt.også certificerede efter gældende miljøstandarder. Leverandørernes ESG-rapporter kan tjene med oplysninger herom.  
@@ -97,7 +100,7 @@ Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig
    Arbejd med hardware, der er designet til lavt energiforbrug, og vælg produkter med minimal miljøbelastning.
 
 3. **Er driften baseret på vedvarende energi?**  
-   Sørg for, at både lokale og globale datacentre drives med vedvarende energi som sol og vind.
+   Sørg for, at både lokale og globale datacentre drives med vedvarende energi som sol og vind, eller at de binder lige så meget CO2, som de udelader. 
 
 4. **Er datacenterets design miljøvenligt i forhold til køling?**  
    Prioritér datacentre, der anvender frikøling eller andre energibesparende kølesystemer.
@@ -110,33 +113,14 @@ Tjeklisterne kan med fordel suppleres med yderligere tiltag, og vi opfordrer dig
 
 ---
 
-# Bæredygtighedsprincipper for software
+# 💾♻️ Bæredygtighedsprincipper for software
 
-1. **Hvilke bæredygtighedsstandarder og certificeringer kan softwaren leve op til?**  
-   Standarderne kan omhandle både miljø og samfund, men også sikkerhed, som fx ASVS-standarden for sikre applikationer.  
 
-2. **Overholder it-miljøet, hvor softwaren afvikles, principperne for hardware og netværk?**  
-
-3. **Er softwaren baseret på effektive og gennemtestede algoritmer?**  
-
-4. **Har softwaren indbyggede automatiske processer, der minimerer ressourceforbruget?**  
-
-5. **Får softwaren sikkerhedsopdateringer gennem hele løsningens levetid?**  
-
-6. **Er softwaren nem at fejlfinde og veldokumenteret?**  
-
-7. **Bruger softwaren uhensigtsmæssige indstillinger og features (dark patterns)?**  
-
-8. **Kan softwaren udvides med yderligere bæredygtighedstiltag?**  
-
-9. **Kan softwaren let integreres med andet software (f.eks. via API’er)?**  
-
-10. **Understøtter softwaren monitorering af ressourceforbrug og miljøpåvirkning?**  
-
-11. **Er softwaren udviklet med genanvendelse og modularitet for øje?**  
-
-12. **Er softwaren optimeret til at reducere unødig databehandling?**  
-
-13. **Håndterer softwaren data på en energieffektiv måde?**  
-
-14. **Har softwaren funktioner, der guider brugere mod bæredygtige handlinger?**  
+1. Tænk langsigtet,
+indbyg bæredygtighed fra start, Design med data
+2. Følg manifestet, standarder		
+3. Undgå ubæredygtige praksisser, som: Dark patterns, teknisk gæld		
+4. Automatisér bæredygtighedsanalyser og sikkerhed		
+5. Nudg brugere mod bæredygtighed		
+6. Reducer unødig databehandling		Håndtér data energieffektivt
+7. Uddan udviklere og i bæredygtighed		
