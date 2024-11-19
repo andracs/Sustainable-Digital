@@ -1,6 +1,6 @@
 # 💾♻️ Bæredygtighedsprincipper for software
 
-Disse best practices er appendiks til bogen "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev (2025, Samfundslitteratur).
+Disse best practices er appendiks til bogen "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev (*udkommer til foråret 2025 hos Samfundslitteratur*.)
 
 Denne tjekliste guider dig i at udvikle eller indkøbe softwareløsninger med fokus på bæredygtighed i en bred forstand. 
 
