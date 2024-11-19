@@ -26,10 +26,28 @@ Alle medarbejdere have en grundforståelse for bæredygtighedens betydning gener
 Informationsteknologiens historie er en laaaaaaang kæde af optimerings- og forbedringsprocesser, som kan bidrage til mere bæredygtige softwarepraksisser. 
  
    1. **Reducer unødig databehandling**, fordi sparsomme løsninger kræver mindre energi, og der skal produceres mindre elektronik.
+
    2. **Monitorér ressourceforbrug og miljøpåvirkning**, for at kunne træffe kvalificerede beslutninger om forbedringer.
+
    3. **Brug effektive og gennemtestede algoritmer**, fordi ellers stifter du teknisk gæld for fremtiden.
+
    4. **Design til modularitet og genanvendelse** 
+
    5. **Sørg for at softwaren er åben** for at gøre det muligt at sammenkøre forskellige løsninger og skabe nye eller mere effektive produkter.'
+
    6. **Hav en plan for løbende opdateringer**, både forid det er essintelt for sikkerheden i softwaren, men også fordi det kan skabe en bedre forretning.
+
    7. **Gør softwaren nem at fejlfinde og veldokumenteret**, det kan betale sig i længden. 
+
    8. **Overvej at optimere til ældre hardware**, fordi i nogle tilfælde kan bagudkompaitbilitet kan betale sig.
+
+# Supplerende tjeklister
+
+Brug følgende tjeklister for mere bæredygitge praksisser.. 
+
+- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
+  
+- [✅ Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
+  
+- [🌍 Netværks-checkliste](./Appendix-Best-practices-Network.md)
+  
