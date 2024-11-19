@@ -37,7 +37,7 @@ Denne liste kan tjene som inspiration til overordnede bæredygtighedsovervejelse
    Vælg løsninger med lavere direkte og indirekte energiforbrug for at minimere løsningens miljøaftryk.
 
 9. **Less is more**  
-   Små og simple løsninger bruger ofte mindre energi og færre ressourcer end store løsninger. 
+   Små og simple løsninger bruger ofte mindre energi og færre ressourcer end store løsninger. Overvej om downsizing kan være en gangbar strategi. 
 
 10. **Cybersikkerhed er også bæredygtighed**  
     Løsninger, som kan hackes eller misbruges, er ikke bæredytige. Sørt for at have høje it-sikkerhedsstandarder. 
