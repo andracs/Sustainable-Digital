@@ -61,7 +61,7 @@ Informationsteknologiens historie er en laaaaaaang kæde af optimerings- og forb
 
 Anvend følgende tjeklister for mere bæredygitge praksisser og en lysere fremtid.
 
-- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)
+- [📈 Overordnede retningslinjer](./Appendix-Best-practices.md)
   
 - [🔌 Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
   
