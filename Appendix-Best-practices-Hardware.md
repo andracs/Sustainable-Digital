@@ -34,6 +34,6 @@ Prioritér leverandører, der arbejder med innovative løsninger til at reducere
 
 Brug følgende tjeklister for mere bæredygtige praksisser.  
 
-- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)  
+- [📈 Overordnede retningslinjer](./Appendix-Best-practices.md)  
 - [🌍 Netværks-checkliste](./Appendix-Best-practices-Network.md)  
 - [💾 Software-checkliste](./Appendix-Best-practices-Software.md)  
