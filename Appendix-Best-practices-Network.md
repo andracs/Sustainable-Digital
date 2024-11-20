@@ -24,6 +24,6 @@ Lever netværk og cloud op til de bedst mulige sikkerhedsstandarder og gældende
 
 Brug følgende tjeklister for mere bæredygtige praksisser.  
 
-- [📈 Generelle retningslinjer](./Appendix-Best-practices.md)  
+- [📈 Overordnede retningslinjer](./Appendix-Best-practices.md)  
 - [🔌 Hardware-checkliste](./Appendix-Best-practices-Hardware.md)  
 - [💾 Software-checkliste](./Appendix-Best-practices-Software.md)  
