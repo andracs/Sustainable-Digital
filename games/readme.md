@@ -1,2 +1,2 @@
-# Game ideas for sustainable tech games
+# Ideas for sustainable tech software or games
 
