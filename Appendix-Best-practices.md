@@ -1,14 +1,4 @@
-# Best practices for bæredygtig it- og digitalisering 🌱💻📘✨♻️🌍
-
-Disse best practices er et appendiks til bogen "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev.
-
-Listerne er ikke udtømmende, men kan bruges som inspiration til dig og din organisation på jeres bæredygtighedsrejse. De bygger på observationer fra research og praksis.
-
-Tjeklisterne kan tilpasses og udvides med flere tiltag. Du kan hjælpe med at forbedre dem ved at bidrage til den opdaterbare version på github.com/sustain-dev eller skrive til anac@zealand.dk.
-
-Bogen udkommer hos Samfundslitteratur i foråret 2025 og uddyber bæredygtige aspekter af it-udvikling og it-drift med forklaringer og eksempler.
-
-# Overordnede designprincipper for bæredygtige digitale løsninger
+# Overordnede designprincipper for bæredygtige digitale løsninger 🌱💻📘✨♻️🌍
 
 Denne liste kan tjene som inspiration til overordnede bæredygtighedsovervejelser ved design af digitale løsninger. Herefter følger der bæredygtighedstjeklister for både hardware-, netværk- og software-løsninger. 
 
@@ -55,4 +45,13 @@ Brug følgende tjeklister for mere bæredygitge praksisser ift. hardware, netvæ
   
 - [💾 Software-checkliste](./Appendix-Best-practices-Software.md)
 
+# Best practices for bæredygtig it- og digitalisering 🌱💻📘✨♻️🌍
+
+Disse best practices er et appendiks til bogen "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev.
+
+Listerne er ikke udtømmende, men kan bruges som inspiration til dig og din organisation på jeres bæredygtighedsrejse. De bygger på observationer fra research og praksis.
+
+Tjeklisterne kan tilpasses og udvides med flere tiltag. Du kan hjælpe med at forbedre dem ved at bidrage til den opdaterbare version på github.com/sustain-dev eller skrive til anac@zealand.dk.
+
+Bogen udkommer hos Samfundslitteratur i foråret 2025 og uddyber bæredygtige aspekter af it-udvikling og it-drift med forklaringer og eksempler.
 
