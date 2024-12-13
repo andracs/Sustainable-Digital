@@ -24,7 +24,9 @@ Softwaren skal være fremmende for både individet og organisationerne. Undgå "
  
 ## 🤖 **4. Automatisér bæredygtighedsanalyser**
 
-Sørg for, at automatiske målinger benchmarker softwarens effektivitet løbende, for såvel miljø som sikkerhed.  
+Sørg for, at automatiske målinger benchmarker softwarens effektivitet løbende, for såvel miljø som sikkerhed. Find værktøjer hertil på fx
+- [Green Metrics Tool](https://github.com/green-coding-solutions/green-metrics-tool)  
+- [Green Software Tools on GitHub](https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/)
      
 ## 🧑‍💻 **5. Guide brugere mod bæredygtighed**
 
