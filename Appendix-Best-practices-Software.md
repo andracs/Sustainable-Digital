@@ -73,7 +73,9 @@ Anvend følgende tjeklister for mere bæredygitge praksisser og en lysere fremti
 
 Listen er ikke udtømmende, men kan bruges som inspiration til dig og din organisation på jeres bæredygtighedsrejse. Den bygger på observationer fra research og praksis.
 
-Tjeklisterne kan tilpasses og udvides med flere tiltag. Du kan hjælpe med at forbedre dem ved at bidrage til den opdaterbare version på [github.com/sustain-dev](https://github.com/andracs/Sustainable-Digital/) eller skrive til anac@zealand.dk.
+Tjeklisterne kan tilpasses og udvides med flere tiltag. Du kan hjælpe med at forbedre dem ved at bidrage til den opdaterbare version på [github.com/sustain-dev](https://github.com/andracs/Sustainable-Digital/). 
+
+Skriv en bemærkning, idé eller andet under [Issuses](https://github.com/andracs/Sustainable-Digital/issues).
 
 
 
