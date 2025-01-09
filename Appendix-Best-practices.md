@@ -35,7 +35,7 @@ Denne liste kan tjene som inspiration til overordnede bæredygtighedsovervejelse
 11. **Undgå greenwashing**  
     Basér arbejdet på bredt anerkendte og videnskabeligt understøttede bæredygtighedsprincipper, der kan vejlede jer på jeres bæredygtighedsrejse.
 
-# Supplerende tjeklister
+# Underordnede tjeklister
 
 Brug følgende tjeklister for mere bæredygitge praksisser ift. hardware, netværk/cloud og software. 
   
