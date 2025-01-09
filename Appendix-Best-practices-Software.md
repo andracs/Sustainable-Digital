@@ -61,7 +61,7 @@ Informationsteknologiens historie er en laaaaaaang kæde af optimerings- og forb
 
 # Supplerende tjeklister
 
-Anvend følgende tjeklister for mere bæredygitge praksisser og en lysere fremtid.
+Anvend følgende tjeklister for mere bæredygtige praksisser og en lysere fremtid.
 
 - [📈 Overordnede retningslinjer](./Appendix-Best-practices.md)
   
