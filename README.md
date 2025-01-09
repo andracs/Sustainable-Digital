@@ -51,6 +51,7 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling, som un
 3. [9 anbefalinger til grøn it-overgang i din virksomhed (PDF på dansk)](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)
 4. [Computer Professionals for Social Responsibility - Advokater for ansvarlig teknologibrug](http://cpsr.org)
 5. [Data Science for Social Good - Leveraging data for social impact](http://www.datascienceforsocialgood.org)
+6. [Green Metrics Tools](https://github.com/green-coding-solutions/green-metrics-tool)
 
 
 ## Kapitel 7
