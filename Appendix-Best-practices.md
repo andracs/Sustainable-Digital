@@ -37,7 +37,7 @@ Denne liste kan tjene som inspiration til _overordnede_ bæredygtighedsovervejel
 
 # Underordnede tjeklister
 
-Brug følgende tjeklister for mere bæredygitge praksisser ift. hardware, netværk/cloud og software. 
+Brug følgende tjeklister for mere bæredygtige praksisser ift. hardware, netværk/cloud og software. 
   
 - [🔌 Hardware-checkliste](./Appendix-Best-practices-Hardware.md)
   
