@@ -6,42 +6,45 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling, som un
 1. [Planetary boundaries (Stockholms universitet)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 
 ## Kapitel 3
-2. [Kortlægning af din Fairphones rejse](https://www.fairphone.com/en/impact/source-map-transparency/)  
-3. [Fairphone Supply Chain for Fairphone 4 på Sourcemap.com](https://open.sourcemap.com/maps/61a98acef1ddeb086156a529)  
-4. Interessante onlineværktøjer til kortlægning af forsyningskæden
+1. [Kortlægning af din Fairphones rejse](https://www.fairphone.com/en/impact/source-map-transparency/)  
+2. [Fairphone Supply Chain for Fairphone 4 på Sourcemap.com](https://open.sourcemap.com/maps/61a98acef1ddeb086156a529)  
+3. Interessante onlineværktøjer til kortlægning af forsyningskæden
    1. [SCM Globe](https://www.scmglobe.com/)
-   2. [Sourcemap](https://open.sourcemap.com/)  
+   2. [Sourcemap](https://open.sourcemap.com/)
+
+## Kapitel 4
+1. [Interface Copy Impacts Decision Making](https://www.nngroup.com/articles/interface-copy-decision-making/)
 
 ## Kapitel 5
-5. Bæredygtige kodningsværktøjer (CD/CI-plugins)
+1. Bæredygtige kodningsværktøjer (CD/CI-plugins)
    1. [Climate Warrior Official](https://github.com/marketplace/climate-warrior-official)
    2. [Eco CI Energy Estimation](https://github.com/marketplace/actions/eco-ci-energy-estimation)
    3. [AWS Sustainability Scanner GitHub Action](https://github.com/marketplace/actions/aws-sustainability-scanner-github-action)
 
-6. Visual Studio Code-udvidelser til bæredygtig kode
+2. Visual Studio Code-udvidelser til bæredygtig kode
    1. [Grøn kode (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=GreenCode.greencode)
    2. [Devs Core Insights](https://marketplace.visualstudio.com/items?itemName=DevsCore.devs-core-insights)
    3. [Code Carbon (Visual Studio)](https://marketplace.visualstudio.com/items?itemName=CodeCarbon.codecarbon)
 
-7. **Kurser om grøn computing**  
+3. **Kurser om grøn computing**  
    1. [Green Software Foundation Learning Platform](https://learn.greensoftware.foundation/)  
    2. [FreeCodeCamp: Design og byg bæredygtig software](https://www.freecodecamp.org/news/design-and-build-sustainable-software/)  
    3. [Coursera: Sustainable Digital Innovation](https://www.coursera.org/learn/sustainable-digital-innovation)  
    4. [Pluralsight: Energy Efficient Programming](https://www.pluralsight.com/)  
 
-8. **Fora og fællesskaber for grøn kodning**  
+4. **Fora og fællesskaber for grøn kodning**  
    1. [Green Software Foundation Community](https://greensoftware.foundation/community)  
    2. [SustainableUX](https://sustainableux.com/)  
    3. [ClimateAction.tech](https://climateaction.tech/)  
    4. [Sustainable Developers Group på Reddit](https://www.reddit.com/r/Sustainability/)  
 
-9. **Blogs og forskningsressourcer**  
+5. **Blogs og forskningsressourcer**  
    1. [The Green Programmer](https://www.thegreenprogrammer.com/)  
    2. [Sustainable Web Manifesto Blog](https://sustainablewebmanifesto.com/blog/)  
    3. [ACM SIGSUSTAIN - Special Interest Group on Sustainability](https://sigsustain.acm.org/)  
    4. [Low Tech Magazine](https://www.lowtechmagazine.com/)  
 
-10. **Open source-projekter**
+6. **Open source-projekter**
    1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
 
 
