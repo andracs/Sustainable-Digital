@@ -20,7 +20,7 @@ Vi skal ikke opfinde den dybe tallerken igen, fordi vi kan tage afsæt i etabler
 
 ## 🚫 **3. Undgå ubæredygtige praksisser**
 
-Softwaren skal være fremmende for både individet og organisationerne. Undgå "dark patterns", som kan være skadelige for softwarens brugere. Undgå også  at stifte *teknisk gæld* ved at anvende teknologi, som ikke er langtidsholdbar. Anvend i stedet for komponenter, som er åbne for udvikling og fremtidssikrede.
+Softwaren skal være fremmende for både individet og organisationerne. Undgå "dark patterns", som kan være skadelige for softwarens brugere. Undgå også at stifte *teknisk gæld* ved at anvende teknologi, som ikke er langtidsholdbar. Anvend i stedet for komponenter, som er åbne for udvikling og fremtidssikrede.
  
 ## 🤖 **4. Automatisér bæredygtighedsanalyser**
 
@@ -53,11 +53,11 @@ Informationsteknologiens historie er en laaaaaaang kæde af optimerings- og forb
 
    5. **Sørg for at softwaren er åben for udvidelse og integration**, for at gøre det muligt at sammenkøre forskellige løsninger og skabe nye eller mere effektive produkter.
 
-   6. **Hav en plan for løbende opdateringer**, både forid det er essintelt for sikkerheden i softwaren, men også fordi det kan skabe en bedre forretning.
+   6. **Hav en plan for løbende opdateringer**, både fordi det er essientielt for sikkerheden i softwaren, men også fordi det kan skabe en bedre forretning.
 
    7. **Gør softwaren nem at fejlfinde og veldokumenteret**, det kan betale sig i længden. 
 
-   8. **Overvej at optimere til ældre hardware**, fordi i nogle tilfælde kan bagudkompaitbilitet kan betale sig.
+   8. **Overvej at optimere til ældre hardware**, fordi i nogle tilfælde kan bagudkompatibilitet kan betale sig.
 
 # Supplerende tjeklister
 
