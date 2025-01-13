@@ -7,7 +7,7 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling, som un
 2. [IPCC Climate Change Report 2023](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf)
 
 ## Kapitel 3
-1. [Kortlægning af din Fairphones rejse](https://www.fairphone.com/en/impact/source-map-transparency/)  
+1. [Kortlægning af en Fairphones rejse](https://www.fairphone.com/en/impact/source-map-transparency/)  
 2. [Fairphone Supply Chain for Fairphone 4 på Sourcemap.com](https://open.sourcemap.com/maps/61a98acef1ddeb086156a529)  
 3. Interessante onlineværktøjer til kortlægning af forsyningskæden
    1. [SCM Globe](https://www.scmglobe.com/)
