@@ -4,7 +4,7 @@ En liste over ressourcer vedrørende bæredygtighed og digital udvikling, som un
 
 ## Kapitel 1
 1. [Planetary boundaries (Stockholms universitet)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
-2. [IPCC Climate Change Report 2023][https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf]
+2. (IPCC Climate Change Report 2023)[https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf]
 
 ## Kapitel 3
 1. [Kortlægning af din Fairphones rejse](https://www.fairphone.com/en/impact/source-map-transparency/)  
