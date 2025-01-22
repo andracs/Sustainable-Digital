@@ -1,6 +1,6 @@
 # Bæredygtighed i digital praksis 🌍🌳🍎♻️⚡️💡💼📱💻🌐
 
-En liste over ressourcer vedrørende bæredygtighed og digital udvikling, som understøtter lærebogen med samme titel:  "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev (Samfundslitteratur, 2025).   
+En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling, som understøtter lærebogen med samme titel:  "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev (Samfundslitteratur, 2025).   
 
 ## Kapitel 1
 1. [Planetary boundaries (Stockholms universitet)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
