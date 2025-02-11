@@ -8,10 +8,10 @@ Denne liste kan tjene som inspiration til _overordnede_ bæredygtighedsovervejel
 2. **Design cirkulære processer**  
    "Brug og smid væk"-kulturen er sjældent bæredygtig; cirkulær økonomi er en bedre tilgang. Digitale produkter bør have en livscyklus fra vugge til vugge med mål om tæt på 0% affald.
 
-3. **Vedvarende energi er bedst**  
+3. **Anvend vedvarende energi**  
    Digitale løsninger bør baseres på vedvarende energi i videst muligt omfang. Udforsk mulighederne for, at leverandører og aftagere også anvender vedvarende energi.
    
-4. **Brug agile udviklingsmetoder**  
+4. **Brug agile udviklingsmetoder og open source**  
    Bæredygtighed inden for it er endnu et ubeskrevet blad, og derfor er iterativ udvikling med langsigtede mål og korte iterationer ofte er til at foretrække.
 
 5. **Tag ansvar for produktets fulde livscyklus**  
@@ -23,16 +23,16 @@ Denne liste kan tjene som inspiration til _overordnede_ bæredygtighedsovervejel
 7. **Giv brugerne bæredygtige valg**  
    Software bør designes således, at den inspirerer og hjælper brugerne til at træffe mere og mere bæredygtige valg.
 
-8. **Lavt energiforbrug er bedre end højt energiforbrug**  
+8. **Sigt for lavt energi- og materialeforbrug**  
    Vælg løsninger med lavere direkte og indirekte energiforbrug for at minimere løsningens CO2-udledning.
 
 9. **Less is more**  
    Små og simple løsninger bruger ofte mindre energi og færre ressourcer end store løsninger. Overvej om downsizing eller lightweight design kan være gangbare strategier. 
 
-10. **Cybersikkerhed og [resiliens](https://videnskab.dk/kultur-samfund/resiliens-det-nye-hotte-begreb-du-skal-kende/) er også bæredygtighed**  
+10. **Design for (cyber)sikkerhed og [resiliens](https://videnskab.dk/kultur-samfund/resiliens-det-nye-hotte-begreb-du-skal-kende/)**  
     Løsninger, som kan hackes eller misbruges, er ikke bæredytige. Sørg for at have høje it-sikkerhedsstandarder. 
 
-11. **Undgå greenwashing**  
+11. **Brug storytelling, men undgå greenwashing**  
     Basér arbejdet på bredt anerkendte og videnskabeligt understøttede bæredygtighedsprincipper for at undgå greenwashing. 
 
 # Underordnede tjeklister
