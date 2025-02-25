@@ -55,7 +55,7 @@ Informationsteknologiens historie er en laaaaaaang kæde af optimerings- og forb
 
    6. **Hav en plan for løbende opdateringer**, både fordi det er essientielt for sikkerheden i softwaren, men også fordi det kan skabe en bedre forretning.
 
-   7. **Gør softwaren nem at fejlfinde og veldokumenteret**, det kan betale sig i længden. 
+   7. **Gør softwaren let at fejlfinde og sørg for passende dokumentation**, det kan betale sig i længden. 
 
    8. **Overvej at optimere til ældre hardware**, fordi i nogle tilfælde kan bagudkompatibilitet kan betale sig.
 
