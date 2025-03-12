@@ -60,6 +60,9 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
 
 6. **Open source-projekter**
    1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
+  
+7. **Yderligere resurser**
+   1. [Web Almanac chapter on sustainability](https://almanac.httparchive.org/en/2024/sustainability)
 
 
 ## Kapitel 6
