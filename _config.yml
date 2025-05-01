@@ -5,8 +5,8 @@ relative_links:
   collections: true
 include:
   - README.md
-  - appendix/Appendix-Best-practices.md
-  - appendix/Appendix-Best-practices-Software.md
-  - appendix/Appendix-Best-practices-Hardware.md
-  - appendix/Appendix-Best-practices-Network.md
+  - /appendix/Appendix-Best-practices.md
+  - /appendix/Appendix-Best-practices-Software.md
+  - /appendix/Appendix-Best-practices-Hardware.md
+  - /appendix/Appendix-Best-practices-Network.md
   
