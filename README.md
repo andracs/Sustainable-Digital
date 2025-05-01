@@ -87,13 +87,13 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
 
 ## Appendix - Best practices for bæredygtig digital praksis
 
-1. [📈 Generelle retningslinjer](./Appendix/Appendix-Best-practices.md)
+1. [📈 Generelle retningslinjer](./appendix/Appendix-Best-practices.md)
 
-2. [🔌 Hardware-checkliste](./Appendix/Appendix-Best-practices-Hardware.md)
+2. [🔌 Hardware-checkliste](./appendix/Appendix-Best-practices-Hardware.md)
   
-3. [🌍 Netværks-checkliste](./Appendix/Appendix-Best-practices-Network.md)
+3. [🌍 Netværks-checkliste](./appendix/Appendix-Best-practices-Network.md)
   
-4. [💾 Software-checkliste](./Appendix/Appendix-Best-practices-Software.md)
+4. [💾 Software-checkliste](./appendix/Appendix-Best-practices-Software.md)
   
 ---
 
