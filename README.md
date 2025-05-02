@@ -15,6 +15,8 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
 ## Kapitel 1
 1. [Planetary boundaries (Stockholms universitet)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 2. [IPCC Climate Change Report 2023](https://www.ipcc.ch/report/ar6/syr/)
+3. [Green Claims - direktivet mod greenwashing](https://environment.ec.europa.eu/topics/circular-economy/green-claims_en)
+4. [Fusionsenergi - håb om en ren energi from fremtiden](https://www.fusionsenergi.dk/viden-om-fusionsenergi/introduktion-til-fusionsenergi/hvad-er-fusionsenergi)
 
 ## Kapitel 2
 
