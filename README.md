@@ -2,15 +2,25 @@
 
 En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling, som understøtter lærebogen med samme titel:  "Bæredygtighed i digital praksis - en grundbog" af András Ács Pedersen og Jesper Balslev (Samfundslitteratur, 2025).   
 
+## Appendix - Tjeklister med best practices for bæredygtig digital praksis
+
+1. [📈 Generelle retningslinjer for alle slags digitale projekter](./appendix/Appendix-Best-practices.md)
+
+2. [🔌 Hardware-tjekliste](./appendix/Appendix-Best-practices-Hardware.md)
+  
+3. [🌍 Netværks-tjekliste](./appendix/Appendix-Best-practices-Network.md)
+  
+4. [💾 Software-tjekliste](./appendix/Appendix-Best-practices-Software.md)
+  
 ## Kapitel 1
 1. [Planetary boundaries (Stockholms universitet)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 2. [IPCC Climate Change Report 2023](https://www.ipcc.ch/report/ar6/syr/)
 
 ## Kapitel 2
 
-1. Liste over værktøjer til systemmodellering
+1. Værktøjer til systemmodellering
    1. Pen og papir
-   2. [Visual paradigme](https://www.visual-paradigm.com/)
+   2. [Visual Paradigm](https://www.visual-paradigm.com/)
    3. [Lucidchart](https://www.lucidchart.com/)
 2. [Tools for Systems Thinkers: Systems Mapping](https://medium.com/disruptive-design/tools-for-systems-thinkers-systems-mapping-2db5cf30ab3a)
 3. [Seven methods of mapping systems](https://i2insights.org/2023/02/28/systems-mapping-methods/)
@@ -85,17 +95,7 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
 8. [Humane by Design - Etiske retningslinjer for menneskecentreret design](https://humanebydesign.com)
 9. [At navigere mod et nyt digitalt paradigme](https://advice-sustainabilitybarometer.com/the-digital-value-compass)
 
-## Appendix - Best practices for bæredygtig digital praksis
 
-1. [📈 Generelle retningslinjer](./appendix/Appendix-Best-practices.md)
-
-2. [🔌 Hardware-checkliste](./appendix/Appendix-Best-practices-Hardware.md)
-  
-3. [🌍 Netværks-checkliste](./appendix/Appendix-Best-practices-Network.md)
-  
-4. [💾 Software-checkliste](./appendix/Appendix-Best-practices-Software.md)
-  
----
 
 
 
