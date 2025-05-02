@@ -17,6 +17,7 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
 2. [IPCC Climate Change Report 2023](https://www.ipcc.ch/report/ar6/syr/)
 3. [Green Claims - direktivet mod greenwashing](https://environment.ec.europa.eu/topics/circular-economy/green-claims_en)
 4. [Fusionsenergi - håb om en ren energi from fremtiden](https://www.fusionsenergi.dk/viden-om-fusionsenergi/introduktion-til-fusionsenergi/hvad-er-fusionsenergi)
+5. [ESG-skabelon for SMV-er](https://virksomhedsguiden.dk/content/temaer/baeredygtig-omstilling/ydelser/esg-opgoerelse-saadan-kommer-du-i-gang/7115a9ee-5891-46ac-b655-b9ba9258f7d9/)
 
 ## Kapitel 2
 
