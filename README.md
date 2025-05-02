@@ -4,13 +4,13 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
 
 ## Appendix - Tjeklister med best practices for bæredygtig digital praksis
 
-1. [📈 Generelle retningslinjer for alle slags digitale projekter](./appendix/Appendix-Best-practices.md)
+1. [📈 Generelle bæredygtigheds-retningslinjer for alle slags digitale projekter](./appendix/Appendix-Best-practices.md)
 
-2. [🔌 Hardware-tjekliste](./appendix/Appendix-Best-practices-Hardware.md)
+2. [🔌 Hardware tjekliste for bæredygtighed](./appendix/Appendix-Best-practices-Hardware.md)
   
-3. [🌍 Netværks-tjekliste](./appendix/Appendix-Best-practices-Network.md)
+3. [🌍 Netværkstjekliste for bæredygtighed](./appendix/Appendix-Best-practices-Network.md)
   
-4. [💾 Software-tjekliste](./appendix/Appendix-Best-practices-Software.md)
+4. [💾 Software tjekliste for bæredygtighed](./appendix/Appendix-Best-practices-Software.md)
   
 ## Kapitel 1
 1. [Planetary boundaries (Stockholms universitet)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
