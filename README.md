@@ -92,7 +92,7 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
 2. [Guidelines on Deceptive Design Patterns in Social Media Platforms (PDF)](https://www.edpb.europa.eu/system/files/2023-02/edpb_03-2022_guidelines_on_deceptive_design_patterns_in_social_media_platform_interfaces_v2_en_0.pdf)
 3. [ESG-Profile Benchmark - Indsigt i ledelse og bæredygtighed på dansk](https://www.lederne.dk/min-ledelse/esg-profilen/benchmark)
 4. [Inclusive Design by Microsoft - Om tilgængelige brugeroplevelser](https://inclusive.microsoft.design/)
-5. [Google Wellbeing - Værktøjer til digital sundhed og mindfulness]((https://web.archive.org/web/20240419132937/https://wellbeing.google/))
+5. [Google Wellbeing - Værktøjer til digital sundhed og mindfulness](https://web.archive.org/web/20240419132937/https://wellbeing.google/)
 6. [Computer Professionals for Social Responsibility - Ansvarlig brug af teknologi](http://cpsr.org)
 7. [Data Science for Social Good](http://www.datascienceforsocialgood.org)
 8. [Humane by Design - Etiske retningslinjer for menneskecentreret design](https://humanebydesign.com)
