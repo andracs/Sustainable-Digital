@@ -82,7 +82,7 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
 1. [Nager-IT - Fair Mouse Supply Chain](https://www.nager-it.de/en/maus/lieferkette)
 2. [Permacomputing - Principper for bæredygtige digitale systemer](https://permacomputing.net/)
 3. [9 anbefalinger til grøn it-overgang i din virksomhed (PDF på dansk)](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)
-4. [Computer Professionals for Social Responsibility - Om nsvarlig teknologibrug](http://cpsr.org)
+4. [Computer Professionals for Social Responsibility - Om ansvarlig teknologibrug](http://cpsr.org)
 5. [Data Science for Social Good](http://www.datascienceforsocialgood.org)
 6. [Green Metrics Tools](https://github.com/green-coding-solutions/green-metrics-tool)
 
