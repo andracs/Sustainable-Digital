@@ -60,22 +60,22 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
    4. [Pluralsight: Energy Efficient Programming](https://www.pluralsight.com/)  
 
 4. **Fora og fællesskaber for grøn kodning**  
-   1. [Green Software Foundation Community](https://greensoftware.foundation/community)  
+   1. [Green Software Foundation Community](https://movement.greensoftware.foundation/)  
    2. [SustainableUX](https://sustainableux.com/)  
    3. [ClimateAction.tech](https://climateaction.tech/)  
    4. [Sustainable Developers Group på Reddit](https://www.reddit.com/r/Sustainability/)  
 
 5. **Blogs og forskningsressourcer**  
-   1. [The Green Programmer](https://www.thegreenprogrammer.com/)  
-   2. [Sustainable Web Manifesto Blog](https://sustainablewebmanifesto.com/blog/)  
-   3. [ACM SIGSUSTAIN - Special Interest Group on Sustainability](https://sigsustain.acm.org/)  
-   4. [Low Tech Magazine](https://www.lowtechmagazine.com/)  
+   1. [Sustainable Web Manifesto Blog](https://sustainablewebmanifesto.com/blog/)  
+   2. [A Sustainable Internet for All - Issue 9]([https://sigsustain.acm.org/](https://branch.climateaction.tech/issues/issue-9/))  
+   3. [Low Tech Magazine](https://www.lowtechmagazine.com/)  
 
 6. **Open source-projekter**
    1. [Terms of Service; Didn't Read (ToS;DR)](https://tosdr.org/)
   
 7. **Yderligere resurser**
    1. [Web Almanac chapter on sustainability](https://almanac.httparchive.org/en/2024/sustainability)
+   2. [Etisk AI på arbejdspladsen - præøsentation](https://www.canva.com/design/DAG99wz5loI/8IdFO5xKISj1F4rJbEqQuw/edit)
 
 
 ## Kapitel 6
