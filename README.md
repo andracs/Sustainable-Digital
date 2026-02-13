@@ -75,7 +75,7 @@ En liste over online-ressourcer vedrørende bæredygtighed og digital udvikling,
   
 7. **Yderligere resurser**
    1. [Web Almanac chapter on sustainability](https://almanac.httparchive.org/en/2024/sustainability)
-   2. [Etisk AI på arbejdspladsen - præøsentation](https://www.canva.com/design/DAG99wz5loI/8IdFO5xKISj1F4rJbEqQuw/edit)
+   2. [Etisk AI på arbejdspladsen - præøsentation]([https://www.canva.com/design/DAG99wz5loI/8IdFO5xKISj1F4rJbEqQuw/edit](https://www.canva.com/design/DAG99wz5loI/giTfNsnpSuHfYUzRanOcrA/view)
 
 
 ## Kapitel 6
